@@ -1,0 +1,1 @@
+CakePHP Plugin: Manages tags for freeform tagging of objects.
