@@ -3,7 +3,7 @@
 	"description" : "CakePHP Plugin: Manages tags for freeform tagging of objects.",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "tags"],
-	"license": "proprietary",
+	"license": "mit",
 	"authors": [
 		{
 			"name": "Brian French",
